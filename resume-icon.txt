@@ -1,0 +1,5 @@
+Note: To use the build script as intended, create a 256x256 icon file named "resume-icon.ico" in this directory. 
+
+You can create such an icon using online icon generators or tools like GIMP or Photoshop.
+
+If you don't have an icon file, you can modify the build.bat script to remove the --icon parameter. 

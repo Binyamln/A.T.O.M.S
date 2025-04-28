@@ -1,0 +1,969 @@
+[
+  {
+    "resume_file": "Jamie Wilson Resume.pdf",
+    "candidate_name": "Estill",
+    "transformer_score": 0.6474602222442627,
+    "tfidf_score": 0.08816611402572332,
+    "section_score": 0.3340384708001064,
+    "combined_score": 0.385645464345454,
+    "section_details": {
+      "experience": 0.13226255774497986,
+      "skills": 0.5694437026977539
+    }
+  },
+  {
+    "resume_file": "candidate_074.pdf",
+    "candidate_name": "HAYLEE ROGERS SOFTWARE DEVELOPER(AI/ML) PROFESSIONAL PROFILE I am a software developer working with cloud infrastructure and management. I have been part of different projects that were developed on different Machine Learning algorithms. PROFICIENT SKILLS Machine Learning, Deep Learning",
+    "transformer_score": 0.7692859768867493,
+    "tfidf_score": 0.1580764189848563,
+    "section_score": 0.06303505130153601,
+    "combined_score": 0.37404783184061746,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.13657594448666135
+    }
+  },
+  {
+    "resume_file": "candidate_134.pdf",
+    "candidate_name": "P R O F I L E Software Developer and Data Analytics fresher. Looking to get into the field of Machine Learning. LTT DIGITAL SERVICES JUNIOR SDE, FEB 2019 - TILL DATE Understanding text models and using them to create chatbots on webpages of clients. MARIANA HOLDEN S K I L L S Machine Learning, Natural",
+    "transformer_score": 0.783646285533905,
+    "tfidf_score": 0.2016476044332289,
+    "section_score": 0.0,
+    "combined_score": 0.37395279554353067,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_137.pdf",
+    "candidate_name": "SHAWN BUFFET DATA PROCESSING INTERN PROFESSIONAL PROFILE Seeking Roles In Machine Learning, Natural Language Processing, Deep Learning. Previously worked as a Data Processing intern. Having good knowledge in using Python Libraries and different data processing tools. PROFICIENT SKILLS",
+    "transformer_score": 0.7529250383377075,
+    "tfidf_score": 0.15709870549299373,
+    "section_score": 0.07568214473445578,
+    "combined_score": 0.3710042704033179,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.16397798025798752
+    }
+  },
+  {
+    "resume_file": "candidate_113.pdf",
+    "candidate_name": "Ellie Mackey F R E S H E R  I N T E R N Executive Profile Actively seeking job. An enthusiast, with a Master's degree in Electronics & Telecommunication, very keen to learn & eagerly looking for opportunities. Other Activities MACHINE LEARNING with Python. Projects",
+    "transformer_score": 0.8111148476600647,
+    "tfidf_score": 0.13329204043193085,
+    "section_score": 0.0,
+    "combined_score": 0.36443355119360515,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_063.pdf",
+    "candidate_name": "Joseline Hernandez D A T A  S C I E N T I S T  A N D  M A C H I N E  L E A N R I N G E N G I N E E R Executive Profile Good understanding of Data Preprocessing, training and deployment of machine learning and deep learning models.. Worked on Time Series Forecasting, Classification and Clustering",
+    "transformer_score": 0.7250412106513977,
+    "tfidf_score": 0.16853886085675177,
+    "section_score": 0.06830501114194917,
+    "combined_score": 0.3610696458601694,
+    "section_details": {
+      "experience": 0.06830501114194917
+    }
+  },
+  {
+    "resume_file": "candidate_096.pdf",
+    "candidate_name": "SYDNEY JONES PROFILE I am currently working as a junior Machine Learning Engineer and I want to learn more about how Machine Learning projects impact real work scenarios. SKILLS Data Mining, Deep Learning, Machine Learning, Software Testing , Algorithms, Python, JIRA, NLP, SQL, Unsupervised learning, Clustering, Regression, Model Development, MLOPS.",
+    "transformer_score": 0.769563615322113,
+    "tfidf_score": 0.1666171220105863,
+    "section_score": 0.0,
+    "combined_score": 0.3578105827320211,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_025.pdf",
+    "candidate_name": "WYATT COOPER DATA STRATEGY AND DELIVERY SPECIALIST PROFESSIONAL PROFILE A quality-oriented professional with a keen interest in solving complex business problems by way of AI-based design & thinking.  A technology-agnostic individual with a strong background in data science, statistics, and economics",
+    "transformer_score": 0.6519200205802917,
+    "tfidf_score": 0.16730816257442496,
+    "section_score": 0.12583959551229815,
+    "combined_score": 0.34871233565813364,
+    "section_details": {
+      "experience": 0.07397660694545809,
+      "skills": 0.1863464155069449
+    }
+  },
+  {
+    "resume_file": "candidate_013.pdf",
+    "candidate_name": "ANTHONY GUAP PROFILE Deep Learning fresher who is looking to join a company to understand and experience production grade models. I am experienced with latent as well as cloud-based models on Azure and AWS SKILLS Applied Machine Learning, Deep Learning, Computer Vision, Guided Mechanisms, Search Algorithms,",
+    "transformer_score": 0.7360343337059021,
+    "tfidf_score": 0.16366030732701053,
+    "section_score": 0.0,
+    "combined_score": 0.343511825680464,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_149.pdf",
+    "candidate_name": "MIRAD YASTEIN A N A L Y S T  I N T E R N SKILLS Artificial Intelligence, Deep Learning, Reinforcement Learning, Tensorflow Keras, Scikit learn, Numpy, Pandas, Matplotlib. EDUCATION B.Tech(IT) from IIIT D&M Kancheepuram, Chennai in 2019 PERSONAL PROFILE",
+    "transformer_score": 0.7080414295196533,
+    "tfidf_score": 0.17822671039085258,
+    "section_score": 0.0,
+    "combined_score": 0.33668458492511716,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_115.pdf",
+    "candidate_name": "JAYLA RAMIREZ DATA SCIENCE ENGINEER PROFESSIONAL PROFILE As a Data Scientist, I have expertise in both Machine Learning and Statistical analysis techniques, Currently, I am handling the End-to-End Data Science process in Azure Environment, from gathering requirements from the business team to Deploying model in Production.",
+    "transformer_score": 0.7029334306716919,
+    "tfidf_score": 0.11228396976979747,
+    "section_score": 0.06951995503308978,
+    "combined_score": 0.33571454970954295,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.15062656923836115
+    }
+  },
+  {
+    "resume_file": "candidate_027.pdf",
+    "candidate_name": "GAVING WILSON PROFILE Passionate, motivated and highly conjugated towards a building mentality. Perfecting for a better code is always my ideology. SKILLS Machine Learning, Data Structures, Data Mining, Data Modeling, Python, Java Programming, Algorithms. EXPERIENCE",
+    "transformer_score": 0.7600070238113403,
+    "tfidf_score": 0.09574952726974313,
+    "section_score": 0.0,
+    "combined_score": 0.33272766770545914,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_121.pdf",
+    "candidate_name": "JADEN WILLOW FRESHER INTERN WORK EXPERIENCE JumpStart Intern Trainee, Apr 2020 - July 2020 Create different machine learning and deep learning models. Evaluate those models and create end-to- end applications. ACADEMIC PROFILE B.Tech Darjeeling Engineering College in 2018.",
+    "transformer_score": 0.7093467712402344,
+    "tfidf_score": 0.16229258437767155,
+    "section_score": 0.0,
+    "combined_score": 0.33242648380939527,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_138.pdf",
+    "candidate_name": "One97 Communications Limited Data Scientist Jan 2019 to Till Date Detect important information from images and redact required fields. YOLO CNN Object-detection, OCR Insights, find anomaly or performance drop in all possible sub-space. Predict the Insurance claim probability. Estimate the premium amount to be charged B.Tech(Computer Science) from SGBAU university in 2017.",
+    "transformer_score": 0.7119741439819336,
+    "tfidf_score": 0.15268197790659865,
+    "section_score": 0.0,
+    "combined_score": 0.3305942509647531,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_060.pdf",
+    "candidate_name": "OWEN SHAW MACHINE LEARNING ENGINEER PROFESSIONAL PROFILE Machine Learning engineer who has worked on multiple projects with knowledge in big data handling and business analytics. As someone who is always learning, I would love to use my knowledge to provide the best solutions. PROFICIENT SKILLS",
+    "transformer_score": 0.712833821773529,
+    "tfidf_score": 0.10561650944025247,
+    "section_score": 0.0411617813782387,
+    "combined_score": 0.32916701595495895,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.08918385965285051
+    }
+  },
+  {
+    "resume_file": "candidate_050.pdf",
+    "candidate_name": "MASON MARKINOV PROFILE Data Scientist, expertise in Machine Learning and Deep Learning. I am also well acquainted with standard industry methods and libraries. SKILLS Machine learning, Data Science, Deep Learning, Decision Trees, Random Forest, XGBoost, CATBoost, Classification, Regression, Scikit Learn, Numpy, Pandas,",
+    "transformer_score": 0.7102771401405334,
+    "tfidf_score": 0.1419426478675157,
+    "section_score": 0.0,
+    "combined_score": 0.3266936504164681,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_057.pdf",
+    "candidate_name": "MAYA HAYDEN PROFILE I'm passionate learner with a knack for Artificial Intelligence. The kind of problems AI can solve, fills me with enthusiasm to learn more and contribute more. I have dedicated more than a year developing and training Machine learning Models across several projects. SKILLS Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence,",
+    "transformer_score": 0.7065868377685547,
+    "tfidf_score": 0.14493261421220566,
+    "section_score": 0.0,
+    "combined_score": 0.3261145193710836,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_123.pdf",
+    "candidate_name": "Telco Trainee Intern, May 2018 - Dec 2018 Data Handling for clients and giving them insights and reports based on that. B.Tech(Bio-Tech) Sai Charan Singh University, Ludhiana, 2017 M.Tech(Data Science) Sai Charan Singh University, Ludhiana, 2019 WORK EXPERIENCE EDUCATION",
+    "transformer_score": 0.7540568113327026,
+    "tfidf_score": 0.0769587962286566,
+    "section_score": 0.0,
+    "combined_score": 0.3247103634016781,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_001.pdf",
+    "candidate_name": "Brianna Williams J U N I O R  D E V E L O P E R Executive Profile A curiosity-driven data scientist, eager to leverage machine learning and data analytics to extract meaningful insights, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the",
+    "transformer_score": 0.7325343489646912,
+    "tfidf_score": 0.1004103363695582,
+    "section_score": 0.0,
+    "combined_score": 0.3231368404967439,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_021.pdf",
+    "candidate_name": "ERC Solution Associate Machine Learning Engineer, Jan 2020 - Ongoing I had an extensive range of responsibilities including selecting features, performing classification. Also working both with the end of a project carefully understanding the diametrics and overall structure. B.Sc (Computer Science Engineering) from St Josephs College of Arts And Science Bengaluru in 2018 M.Sc(Science) (Big Data Analytics) from Loyola Academy Degree & PG College, Hyderabad in 2020",
+    "transformer_score": 0.7402044534683228,
+    "tfidf_score": 0.08520550572992688,
+    "section_score": 0.0,
+    "combined_score": 0.32164343310630716,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_046.pdf",
+    "candidate_name": "HOWARD GOODMAN FRESHER AND NLP ENGINEER PROFESSIONAL PROFILE I am a fresher who absolutely loves working on anything vaguely related to Machine Learning. I am well acquainted with using State-of-the-art NLP models like Bert, XLNet, and GPT-2. I have also worked on data exploration. PROFICIENT SKILLS",
+    "transformer_score": 0.6636601090431213,
+    "tfidf_score": 0.13427956185172982,
+    "section_score": 0.04411925026294789,
+    "combined_score": 0.3189836872516519,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.09559170890305375
+    }
+  },
+  {
+    "resume_file": "candidate_088.pdf",
+    "candidate_name": "JOSE GARCIA INTERN PROFESSIONAL PROFILE Graduate database management engineer looking to join a role in data analytics or cloud-based machine learning solutions. PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business Analytics, Java, Powerbi, Tableau, SQL,",
+    "transformer_score": 0.6957912445068359,
+    "tfidf_score": 0.07545914447637275,
+    "section_score": 0.055716804776971995,
+    "combined_score": 0.3176692825787378,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.12071974368343932
+    }
+  },
+  {
+    "resume_file": "candidate_022.pdf",
+    "candidate_name": "Daniel Lopez D A T A  A N A L Y S T Executive Profile As a Data Analyst I always look into more innovative ways of finding figures and facts from data. I have also worked with some production based Machine learning application problems and I would like to involve myself more with such ventures. Other Activities",
+    "transformer_score": 0.7255629301071167,
+    "tfidf_score": 0.08590053666471453,
+    "section_score": 0.0,
+    "combined_score": 0.3159953330422611,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_026.pdf",
+    "candidate_name": "AUDREY COLESON A N A L Y S T  A N D  M A C H I N E  L E A R N I N G  E N G I N E E R SKILLS Data science, Deep learning, Neural networks, Artificial intelligence, Machine learning, Regression Analysis, Data structures, Embedded C, Microcontroller, Arduino, Network Management. EDUCATION",
+    "transformer_score": 0.7282352447509766,
+    "tfidf_score": 0.07837788707316341,
+    "section_score": 0.0,
+    "combined_score": 0.31480746402233967,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_067.pdf",
+    "candidate_name": "P R O F I L E I am a software developer currently working on Machine Learning Projects. The domain of analytics and Machine Learning has amassed a greater interest for me and I want to explore and learn about the core concepts used in production. I am looking to switch to a full- time role that will help me explore more about this. DESARKS SOFTWARE DEVELOPER (MACHINE LEARNING), NOV 2019 - ONGOING Fraud Detection using Natural Language Processing to identify the frauds within the organization for the financial domain.",
+    "transformer_score": 0.7197897434234619,
+    "tfidf_score": 0.07552186800828074,
+    "section_score": 0.012590008940060217,
+    "combined_score": 0.31434946045388706,
+    "section_details": {
+      "skills": 0.012590008940060217
+    }
+  },
+  {
+    "resume_file": "candidate_129.pdf",
+    "candidate_name": "NICHOLAS MENDES FRESHER PROFESSIONAL PROFILE Data Science Enthusiast looking roles in Data Analytics, Machine learning, Statistical Modeling, Data Visualization. PROFICIENT SKILLS Data Analyst, Data Analytics, Data Modeling, Data Validation, R, Text Mining, Statistical Modeling, Python, Tableau,",
+    "transformer_score": 0.6996209621429443,
+    "tfidf_score": 0.04420437716638463,
+    "section_score": 0.06196785117723367,
+    "combined_score": 0.31170005336026324,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.13426367755067292
+    }
+  },
+  {
+    "resume_file": "candidate_101.pdf",
+    "candidate_name": "P R O F I L E As a research assistant I always try to define new boundaries and work in a meticulous way to figure out solutions. I have used Machine Learning as a base for our product design to synthesis chemical architectures and their reaction, right now I would like to be involved more on the application development side and was looking for an opportunity that did such. SK JADODIA LABS CHEMICAL SYNTHESIS RESEARCH ASISTANT, JAN 2019 - ONGOING Developed a Machine learning prediction model to optimize steam consumption in MSFE.",
+    "transformer_score": 0.6904357671737671,
+    "tfidf_score": 0.10633143624562458,
+    "section_score": 0.0,
+    "combined_score": 0.3080737377431942,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_032.pdf",
+    "candidate_name": "NOLAN CLARK MACHINE LEARNING GRADUATE RESEARCH ASSISTANT PROFESSIONAL PROFILE As a Graduate Research and Teaching assistant I have an accumulated experience of nearly 1 year and a half. The key areas of focus during this time was on Machine Learning based business attunement methods, along with the",
+    "transformer_score": 0.6638079285621643,
+    "tfidf_score": 0.06509057937652289,
+    "section_score": 0.07574030558875587,
+    "combined_score": 0.3077724369144494,
+    "section_details": {
+      "experience": 0.0773990325213123,
+      "skills": 0.07380512416744
+    }
+  },
+  {
+    "resume_file": "candidate_008.pdf",
+    "candidate_name": "Mia Park P R O J E C T  E N G I N E E R Executive Profile Looking to utilize hands-on experience of machine learning, deep learning and Artificial Intelligence for data discovery, exploration, prediction and analysis tasks. Other Activities Azure Certification Deep Learning Specialization",
+    "transformer_score": 0.6747997999191284,
+    "tfidf_score": 0.12411582385909506,
+    "section_score": 0.0,
+    "combined_score": 0.30715466712537987,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_145.pdf",
+    "candidate_name": "Coca-COla Big Data Analyst, Nov 2019 to Till Date Using the production and shipment data, create a delivery mechanism that would automate the process of data warehousing immediately after a batch is served out of the production line. : B.Tech(Electronics) from The Amity School of Engineering & Technology (ASET), Noida in 2019 WORK EXPERIENCE EDUCATION",
+    "transformer_score": 0.6388874053955078,
+    "tfidf_score": 0.11944025332139466,
+    "section_score": 0.050541201968213406,
+    "combined_score": 0.3065493987450855,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.1095059375977957
+    }
+  },
+  {
+    "resume_file": "candidate_140.pdf",
+    "candidate_name": "Stella Thatcher A S S O C I A T E  M A R K E T  A N A L Y S T Executive Profile I am a market research specialist with a grasp of machine learning and looking for a deeper dive into the career of being a professional machine learning engineer. Other Activities Certified Python Developer Projects",
+    "transformer_score": 0.7499439716339111,
+    "tfidf_score": 0.021163868412097324,
+    "section_score": 0.0,
+    "combined_score": 0.30632674917719366,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_104.pdf",
+    "candidate_name": "Sanrachna SGT University Deputy Data Analyst  Jun 2019 to Jun 2020 Creating reports, extracting, and cleaning the data. Data Analysis, EDA and modelling of the secondary data particularly data related to weather. Creating dashboards using RShiny of quantitative data and made a good animated graphical representation, worked on unstructured text data as well, built a text classifier. BSc (Information Technology) from Sikkim Manipal",
+    "transformer_score": 0.6592243909835815,
+    "tfidf_score": 0.07735018653427737,
+    "section_score": 0.06395868150467375,
+    "combined_score": 0.30608241680511794,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.13857714326012646
+    }
+  },
+  {
+    "resume_file": "candidate_087.pdf",
+    "candidate_name": "P R O F I L E I am a fresher specializing in data analytics and Machine Learning Application development. I believe that if given the opportunity I can prove my potential as a developer. I can easily communicate and work under someone's supervision who can guide me and help me in this journey of learning and exploring. QUANTIMUM INTERN, OCT 2020 - DEC 2020 During my internship I worked on data preparation and customer analysis, and analysis of commercial applications",
+    "transformer_score": 0.6882768869400024,
+    "tfidf_score": 0.09707779551738005,
+    "section_score": 0.0,
+    "combined_score": 0.30443409343121497,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_037.pdf",
+    "candidate_name": "NAOMI JACKSON JUNIOR SDE-MACHINE LEARNING WORK EXPERIENCE HCL Junior SDE(Data and Machine Learning), May 2019 - Ongoing Developed key aspects of a model that was used to Understand Local Dravidian Languages and Translate them as accurately to English. ACADEMIC PROFILE",
+    "transformer_score": 0.7162046432495117,
+    "tfidf_score": 0.05974008524893599,
+    "section_score": 0.0,
+    "combined_score": 0.3044038828744855,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_047.pdf",
+    "candidate_name": "CAROLIN BANKS S O F T W A R E  D E V E L O P E R SKILLS C++, Python, Firebase, Flutter, Tensorflow, Pandas, Numpy, Kotlin, Java, MongoDB, NoSQL. EDUCATION B.Tech (Computers) from National Institute of Technology (NIT), Hamirpur in 2020 PERSONAL PROFILE",
+    "transformer_score": 0.6946746110916138,
+    "tfidf_score": 0.08394685666815217,
+    "section_score": 0.0,
+    "combined_score": 0.30305390143709116,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_133.pdf",
+    "candidate_name": "Drew Hall A S S O C I A T E  M A C H I N E  L E A R N I N G  E N G I N E E R Executive Profile Machine Learning Engineer skilled in NLP , Chatbot , Databases and creating machine learning models and retraining systems and transforming data science prototypes to production-grade solutions. Machine Learning Engineer skilled in ML, Python, NLP, Frameworks, DL.",
+    "transformer_score": 0.6482234001159668,
+    "tfidf_score": 0.1453622647532875,
+    "section_score": 0.0,
+    "combined_score": 0.302898039472373,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_000.pdf",
+    "candidate_name": "JACOB SMITH F R E S H E R SKILLS Python, SQL, MySQL, Tableau, Power Bi, Pandas , Numpy, Matplotlib, Excel , Machine Learning, AWS(EMR,EC2,S3), Cloud, Hive(HQL), and Excel EDUCATION B. Tech, ECE VIT-AP University 2020 OTHER ACTIVITIES",
+    "transformer_score": 0.7084230780601501,
+    "tfidf_score": 0.06295718903363336,
+    "section_score": 0.0,
+    "combined_score": 0.30225638793415005,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_023.pdf",
+    "candidate_name": "GABRIELLA JOHNSON ANALYST WORK EXPERIENCE AMZ Loans and Mortgages Analyst, Oct 2019 to till date Analyzing data warehouses for patterns and concluding solutions for vendor management for the firm. I created pipelines to automate dataflow between database and point of requirement. ACADEMIC PROFILE",
+    "transformer_score": 0.6816540360450745,
+    "tfidf_score": 0.09616598953776381,
+    "section_score": 0.0,
+    "combined_score": 0.30151141127935893,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_144.pdf",
+    "candidate_name": "BENJAMIN OSTA FRESHER DEVELOPER PROFESSIONAL PROFILE As a fresher I have in the field of Software Development and business management. And right now I am in search of a role where I can learn and apply machine learning models to real-life projects. PROFICIENT SKILLS Software Engineer, Software Developer,",
+    "transformer_score": 0.7073105573654175,
+    "tfidf_score": 0.05034687947954879,
+    "section_score": 0.006633006775987436,
+    "combined_score": 0.3000181888228279,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.014371514681306109
+    }
+  },
+  {
+    "resume_file": "candidate_020.pdf",
+    "candidate_name": "AMELIA BAKER PROFILE Coercive and determined individual. Understanding and working on challenging problems is always my go-to attitude. I strive towards competency and improving myself. Always on the front foot when it comes to leading a project. SKILLS Machine Learning, Cloud Architecture, Conversational AI, Natural Language",
+    "transformer_score": 0.6456258296966553,
+    "tfidf_score": 0.12157411590405999,
+    "section_score": 0.0,
+    "combined_score": 0.29472256664988017,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_130.pdf",
+    "candidate_name": "HiB Pvt Ltd Intern, May 2019 - Dec 2019 Building a portfolio store front based on recommender system. BCA BGBS College, Mohantpur 2018 MCA BGBS College, Mohantpur 2020 WORK EXPERIENCE EDUCATION GINANNA GOMEZ FRESHER",
+    "transformer_score": 0.6619983911514282,
+    "tfidf_score": 0.09895289715778001,
+    "section_score": 0.0,
+    "combined_score": 0.2944852256079053,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_142.pdf",
+    "candidate_name": "KELSEY STENS S O F T W A R E  D E V E L O P E R ( M A C H I N E  L E A R N I N G ) SKILLS Software Engineer, Data Analyst, Machine Learning, Text Analytics, Software Development, Object Oriented Programming, Pandas, Numpy, Java, Python, SpringBoot, Laravel. EDUCATION",
+    "transformer_score": 0.6708385944366455,
+    "tfidf_score": 0.08540798791766649,
+    "section_score": 0.0,
+    "combined_score": 0.2939578341499582,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_006.pdf",
+    "candidate_name": "JENNIFER ARMSTRONG PROFILE Fresher Computer vision and Machine Learning Engineer looking for a job that is both challenging and fun in terms of problem-solving. Also an expert in maintaining and managing Tableau and Power BI dashboards to address business. SKILLS Machine learning, Deep learning, Computer vision, Image processing,",
+    "transformer_score": 0.6474040746688843,
+    "tfidf_score": 0.113346345775514,
+    "section_score": 0.0,
+    "combined_score": 0.29296553360020794,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_148.pdf",
+    "candidate_name": "P R O F I L E A data science professional with 1 years of demonstrated work experience in building and deploying end-to-end analytical solutions in the Energy & Resources domain. SADHANA CONSULTANTS DATA SCIENTIST-ANALYTICS & INSIGHTS JUL 2019 TO TILL DATE Performed extraction of data-driven insights from large unstructured data sets by performing knowledge discovery tasks like data acquisition, cleaning, integration & transformation. Performed predictive analytics using Machine Learning & Deep",
+    "transformer_score": 0.661209225654602,
+    "tfidf_score": 0.08569045396605424,
+    "section_score": 0.0,
+    "combined_score": 0.2901908264516571,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_116.pdf",
+    "candidate_name": "Polymon Blockchain Analyst, Jun 2020 - Ongoing Analyzing the transactions made on a blockchain network and providing insights related to transaction volume market cap and investment predictions to the technical and managerial teams. BCA from SP Jain University, 2019 WORK EXPERIENCE EDUCATION EVERETT BURNSLEY",
+    "transformer_score": 0.6289156079292297,
+    "tfidf_score": 0.05629658572487022,
+    "section_score": 0.06515170556358511,
+    "combined_score": 0.2880007305582285,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.14116202872110106
+    }
+  },
+  {
+    "resume_file": "candidate_002.pdf",
+    "candidate_name": "AMZ Loans and Mortgages ERC Analytics, Jun 2019 to till date Handling data of employees and finding retention factors and employee satisfaction. Worked Closely with the HR team to find a balance that was beneficial for both employees and the Company. B.Tech/B.E. (Electronics/Telecommunication) from Nagpur University in 2019 WORK EXPERIENCE EDUCATION",
+    "transformer_score": 0.6295350790023804,
+    "tfidf_score": 0.11459248547033754,
+    "section_score": 0.0,
+    "combined_score": 0.2861917772420534,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_081.pdf",
+    "candidate_name": "ASHLEY HAYDON INTERN PROFESSIONAL PROFILE I am a fresher looking for a Software developer role. During my intern period, I was chosen as a star performer for using out the box methodology to solve complex business problems. PROFICIENT SKILLS Data Analysis, Data Science, Machine",
+    "transformer_score": 0.5878250598907471,
+    "tfidf_score": 0.10175055588660392,
+    "section_score": 0.06785854406269835,
+    "combined_score": 0.2860127539410895,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.14702684546917974
+    }
+  },
+  {
+    "resume_file": "candidate_030.pdf",
+    "candidate_name": "ADRIAN LOPEZ SOFTWARE DEVELOPER & ANALYST ML WORK EXPERIENCE AT&C Solutions Software Developer ML, Mar 2019 - Ongoing Contributed to pixel recognition using MaskRCNN from clientele pictures to determine forgery. Developed image recognition for parts of a vehicle on an assembly line. ACADEMIC PROFILE",
+    "transformer_score": 0.6773566603660583,
+    "tfidf_score": 0.04982596019511952,
+    "section_score": 0.0,
+    "combined_score": 0.28589045220495923,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_106.pdf",
+    "candidate_name": "Pierre Franks B U S I N E S S  A N A L Y S T Executive Profile Business Analyst and a data engineer. I believe that data has the highest power when it comes to making informative decisions about business and therefore my objective is to always make sense from what a dataset is trying to convey. Skills",
+    "transformer_score": 0.5922824144363403,
+    "tfidf_score": 0.14727381396433473,
+    "section_score": 0.0,
+    "combined_score": 0.2810951099638366,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_089.pdf",
+    "candidate_name": "HELENA PATRICKS F R E S H E R  P Y T H O N  D E V E L O P E R SKILLS Data Analysis, Machine Learning, Regression Analysis, Time Series Analysis, SQL, Base SAS, Python, Natural Language Processing, Text analysis, Numpy, Pandas, Matplotlib, Seaborn, Statistical Analysis, NLTK, BERT, Transformers, Pytesseract,",
+    "transformer_score": 0.59178626537323,
+    "tfidf_score": 0.14351061804004064,
+    "section_score": 0.0,
+    "combined_score": 0.2797676915613042,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_105.pdf",
+    "candidate_name": "JEREMY WANG J U N I O R  P Y T H O N  D E V E L O P E R SKILLS Machine Learning, Data processing, Data visualization, Deep Learning, SQL, Python Programming, PyCharm, Django. EDUCATION B.TECH CSE Heramba Chandra College, 2020 PERSONAL PROFILE",
+    "transformer_score": 0.6678087115287781,
+    "tfidf_score": 0.03638988577301578,
+    "section_score": 0.0,
+    "combined_score": 0.278040450343416,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_093.pdf",
+    "candidate_name": "DALTON GREEN DATA SCIENTIST WORK EXPERIENCE United Health Group Data Scientist Jun 2019 to Till Date Managing the activities including designing, developing, testing, troubleshooting, and debugging the ML models to fit the business needs. ACADEMIC PROFILE B.E. (Data Engineering) from Rajiv Gandhi",
+    "transformer_score": 0.5914940237998962,
+    "tfidf_score": 0.1363419135508674,
+    "section_score": 0.0,
+    "combined_score": 0.2775001835852187,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_147.pdf",
+    "candidate_name": "Jaroslav Chechnik F R E S H E R Executive Profile Looking for a job opportunity in which I can interact, learn, and contribute solutions to the problems, which enhances company benefits along with my career. Other Activities Deep Learning Masters",
+    "transformer_score": 0.6273418664932251,
+    "tfidf_score": 0.08420074036578643,
+    "section_score": 0.0,
+    "combined_score": 0.276196968707026,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_007.pdf",
+    "candidate_name": "ISABELLA REED C O N S U L T A N T  A N A L Y S T SKILLS Data Science, Machine Learning, Business Analysis, Business Analytics, Data Analysis, Data Analytics. EDUCATION B.Tech(Computer Science) RCC IT, Kolkata 2018 MBa, Praxis School of Business, Kolkata 2020 OTHER ACTIVITIES",
+    "transformer_score": 0.6424298286437988,
+    "tfidf_score": 0.0597776857887308,
+    "section_score": 0.0,
+    "combined_score": 0.2749052371941388,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_015.pdf",
+    "candidate_name": "John Allen B U S I N E S S  A N A L Y S T Executive Profile I am a business analytics fresher with a background in management and corporate analysis. I am currently looking for an opportunity as a Data Science or Machine Learning Engineer. Other Activities Business Intelligence Contribution Award",
+    "transformer_score": 0.6491917371749878,
+    "tfidf_score": 0.04253036349094178,
+    "section_score": 0.0,
+    "combined_score": 0.2724358039172777,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_034.pdf",
+    "candidate_name": "MADELYN MILNER PROFILE Skilled Machine Learning and Deep Learning practitioner, and I have worked on Computer vision- based projects. On the lookout for opportunities that help me understand more about the domain. SKILLS Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Image Processing, Image Segmentation,",
+    "transformer_score": 0.5512887835502625,
+    "tfidf_score": 0.1613174261357585,
+    "section_score": 0.0,
+    "combined_score": 0.26891074126083253,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_136.pdf",
+    "candidate_name": "TIMOTHY PETERSON SOFTWARE DEVELOPER INTERN WORK EXPERIENCE NaxApp Software Development Intern. Apr 2020 to May 2020 Fake Website Classification. ACADEMIC PROFILE B.Tech (Computers) from Amity University, Noida in 2021.",
+    "transformer_score": 0.6305468082427979,
+    "tfidf_score": 0.05549810173268333,
+    "section_score": 0.0,
+    "combined_score": 0.26886815381692414,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_062.pdf",
+    "candidate_name": "Dass Systems Junior Machine Learning Engineer, Jan 2020 - Ongoing Testing, debugging and parameter tuning for models developed by the internal team. B.Tech(IT) from National Institute Of Science And Technology,Rourkela in 2019 WORK EXPERIENCE EDUCATION ROBERT MATHEWS MACHINE LEARNING ENGINEER (QUALITY CONTROL)",
+    "transformer_score": 0.5671992897987366,
+    "tfidf_score": 0.07616036692461087,
+    "section_score": 0.05878301595777153,
+    "combined_score": 0.26736273078420936,
+    "section_details": {
+      "experience": 0.05878301595777152
+    }
+  },
+  {
+    "resume_file": "candidate_083.pdf",
+    "candidate_name": "Tata Sons Analyst Support, Apr 2019 - Till date Connecting different data sources to extract uniform data & create views that deliver important insights Managing Database, Data Visualisation & Business Intelligence. B.tech(IT) Maulana Abul University, 2019 WORK EXPERIENCE EDUCATION MARCUS BEUFORD",
+    "transformer_score": 0.5844764709472656,
+    "tfidf_score": 0.058590364577174175,
+    "section_score": 0.05099406372935462,
+    "combined_score": 0.26666591687086494,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.11048713808026833
+    }
+  },
+  {
+    "resume_file": "candidate_011.pdf",
+    "candidate_name": "LIAM ANDREWS FRESHER WORK EXPERIENCE Intern Trainee, Jan 2020 to Apr 2020 DICTIS Responsible for performing and helping in decision making. ACADEMIC PROFILE B.Tech(Civil) Garodia Institute of Technosciences, 2020",
+    "transformer_score": 0.603131890296936,
+    "tfidf_score": 0.08371428054111126,
+    "section_score": 0.0,
+    "combined_score": 0.2663670402811078,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_061.pdf",
+    "candidate_name": "MIKAYLA NEUER A S S O C I A T E  S Y S T E M  E N G I N E E R  A N A L Y S T SKILLS Software Development, Application Programming, Agile Methodology, System Analysis, Technical Architecture, Project Management, Requirement Gathering, Client Management, Machine Learning, Java. EDUCATION",
+    "transformer_score": 0.628118634223938,
+    "tfidf_score": 0.03678250444407782,
+    "section_score": 0.0,
+    "combined_score": 0.26228220502279853,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_012.pdf",
+    "candidate_name": "JIMMY GARTNER DA T A  M A N A G E R PROFESSIONAL PROFILE I am looking for an opportunity to work as a Data Scientist. Possessing right and accurate skills at collecting, analyzing, interpreting large datasets and performing data management tasks. Under the guidance of company's professionals I can contribute to",
+    "transformer_score": 0.5596374869346619,
+    "tfidf_score": 0.08052751428920833,
+    "section_score": 0.045558411428097675,
+    "combined_score": 0.2616807724890565,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.09870989142754495
+    }
+  },
+  {
+    "resume_file": "candidate_082.pdf",
+    "candidate_name": "BETHANY CUMMINS F R E S H E R SKILLS Python, Data Analytics, Predictive Analytics, Machine Learning, Artificial Intelligence, Natural Language Processing, Deep Learning, Data Analysis, Business Analytics, Portfolio Analysis, Credit Risk Modeling Fraud Detection, R Programming, SQL, Linux,",
+    "transformer_score": 0.5829119682312012,
+    "tfidf_score": 0.08411970858971708,
+    "section_score": 0.0,
+    "combined_score": 0.25840069986939557,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_052.pdf",
+    "candidate_name": "P R O F I L E I would like to introduce myself as an applicant for the data scientist role. I have gathered an well informed amount of experience from my coursework and I feel that I can perform and produce results in an work environment if given the opportunity. CRISON GLOBAL SERVICE INTERN, JAN 2021 TO TILL DATE Analysis of customer satisfaction based on any new offer/product introduced by chain networks and designing models and building them based on the analyzed data to help vendors and franchise",
+    "transformer_score": 0.5735946893692017,
+    "tfidf_score": 0.0952396462338981,
+    "section_score": 0.0,
+    "combined_score": 0.2580097696178501,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_055.pdf",
+    "candidate_name": "HS Institute TRAINEE, MAY 2019-OCT 2019 Created data pipelines for pre-trained models in order to make them learn from new data and coalesce with our demands. B.Tech(Computer Science), 2020, Punjab Technical University. WORK EXPERIENCE EDUCATION CAMILLA BROWN",
+    "transformer_score": 0.5200260281562805,
+    "tfidf_score": 0.15185902572336415,
+    "section_score": 0.0,
+    "combined_score": 0.2535681189795215,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_143.pdf",
+    "candidate_name": "MATTHEW HORRES JUNIOR DEVELOPER WORK EXPERIENCE Gruvil Technologies Intern Trainee, Apr 2020 - Ongoing Currently working on NLP project, Understanding business objectives, and implementing an end-to- end project. Scrapping the data using beautiful soup and converting that into a structured format. DRDO",
+    "transformer_score": 0.565679669380188,
+    "tfidf_score": 0.08612757798240368,
+    "section_score": 0.0,
+    "combined_score": 0.2521101411467963,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_109.pdf",
+    "candidate_name": "AMBER GREEN FRESHER PROFESSIONAL PROFILE A strong and disciplined individual and fresher who has shown strong leadership qualities and responsibilities through college. PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business",
+    "transformer_score": 0.5353021621704102,
+    "tfidf_score": 0.06260958424435852,
+    "section_score": 0.06008956806438232,
+    "combined_score": 0.2509306105607863,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.13019406413949502
+    }
+  },
+  {
+    "resume_file": "candidate_010.pdf",
+    "candidate_name": "P R O F I L E I just started my journey as a Machine Learning developer after graduating from college. During college, I also worked as a Research Assistant, where I was part of team that was developing A segmentation technique for Intelligent Transportation System. TATA CONSULTANCY SERVICES LTD. MACHINE LEARNING ENGINEER,  SEP 2019 TO TILL DATE Algorithm engineer and  solution developer for SP business unit Analyze the operational data, and derive solutions for customers based on requirements.",
+    "transformer_score": 0.6202641725540161,
+    "tfidf_score": 0.005402859905983085,
+    "section_score": 0.0,
+    "combined_score": 0.2497265269934014,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_041.pdf",
+    "candidate_name": "Titli Foundation System Developer, Jun 2020- Dec 2020 Part of a team that developed an identification system for specially-abled children to understand their needs and provide better housing environment. B.Tech (Electronics) from Manipal University in 2021. WORK EXPERIENCE EDUCATION AVERY JACOBS FRESHER SYSTEM DEVELOPER",
+    "transformer_score": 0.5808984637260437,
+    "tfidf_score": 0.04781017277261178,
+    "section_score": 0.008973672780116952,
+    "combined_score": 0.2493945391562361,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.019442957690253396
+    }
+  },
+  {
+    "resume_file": "candidate_097.pdf",
+    "candidate_name": "P R O F I L E Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaningful data dashboards and evaluation models. BIB CONSULTANCY BUSINESS ANALYST, SEP 2019 TO TILL DATE Create and leverage analytical approaches to quantify catastrophe risk using machine learning models and advance statistical concepts to provide account level and portfolio level results for various Insurance and Reinsurance clients. BAILEY MIRL",
+    "transformer_score": 0.5614761710166931,
+    "tfidf_score": 0.07438278462696866,
+    "section_score": 0.0,
+    "combined_score": 0.24690530379476786,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_100.pdf",
+    "candidate_name": "SAMUEL LEE JUNIOR MACHINE LEARNING ENGINEER WORK EXPERIENCE S2H Minds Pvt Ltd Junior Machine Learning Engineer May 2019 - Ongoing Working on Natural Language Processing based Speech processing engines, \"Key-Word\" recognition, and Recommender System. ACADEMIC PROFILE",
+    "transformer_score": 0.5737425088882446,
+    "tfidf_score": 0.05222896819831402,
+    "section_score": 0.0,
+    "combined_score": 0.24516569401479207,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_127.pdf",
+    "candidate_name": "P R O F I L E Software developer working as a cloud risk management solutions specialist. I have worked on multiple languages and I am quite familiar with a lot of cloud- based software deployment. AXIS BANK LIMITED SOFTWARE DEVELOPER(MACHINE LEARNING ENGINEER) JUN 2018 TO TILL DATE Leveraging Unified Payment Interface (UPI) transaction data to predict the risk involved in offering NTB (New-To-Bank) and KTB (Known-To-Bank) customers pre-approved loans and credit cards.",
+    "transformer_score": 0.5413473844528198,
+    "tfidf_score": 0.08677528246086297,
+    "section_score": 0.0,
+    "combined_score": 0.24257153851938684,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_009.pdf",
+    "candidate_name": "CutThroat Media NLP analyst for user comments, Jan 2019-feb 2020 Used various techniques to understand user data that was being collected from various media outlets on how people were making their online presence through comments. B.Tech (Electrical) PGG College Bangalore, 2019 WORK EXPERIENCE EDUCATION ETHAN CONNERS",
+    "transformer_score": 0.4289906620979309,
+    "tfidf_score": 0.1597912954364892,
+    "section_score": 0.07314489485098581,
+    "combined_score": 0.24147712192541487,
+    "section_details": {
+      "experience": 0.0,
+      "skills": 0.15848060551046925
+    }
+  },
+  {
+    "resume_file": "candidate_080.pdf",
+    "candidate_name": "P R O F I L E Software Engineer with a track record of Implementing and completing projects on time and in alignment with client expectations. Enthusiast about Data Science and keen to learn and explore. EMPOWERED TECHNOLOGIES SDE DEC 2019 TO TILL DATE Implemented utility for transforming images by removing noise using Fourier transform function. CARLTON BROOKE",
+    "transformer_score": 0.5440043210983276,
+    "tfidf_score": 0.07837051527693517,
+    "section_score": 0.0,
+    "combined_score": 0.24111288302241163,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_038.pdf",
+    "candidate_name": "P R O F I L E A proactive learner with a flair for adopting emerging technologies to address industry requirements and achieve organizational objectives & profitability norms. JP INFORMATICS INTERN, FEB 2020-OCT 2020 Creating Customer Engagement Module for online vendors, utilizing database management, recommender system and data cleaning. JONAS NIELSEN S K I L L S",
+    "transformer_score": 0.5564098954200745,
+    "tfidf_score": 0.047124107131136156,
+    "section_score": 0.0,
+    "combined_score": 0.23670119030737063,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "2025 BA Resume Bin.docx.pdf",
+    "candidate_name": "john",
+    "transformer_score": 0.3732169270515442,
+    "tfidf_score": 0.051416840858814,
+    "section_score": 0.22884473204612735,
+    "combined_score": 0.23336524269210007,
+    "section_details": {
+      "experience": 0.22884473204612732
+    }
+  },
+  {
+    "resume_file": "candidate_076.pdf",
+    "candidate_name": "Remiro Amio Intern, Jan 2019 to Sep 2019 Culture shock analysis using targeted data. B.Tech (IT) from DJR College and University, 2020 WORK EXPERIENCE EDUCATION CARLY JENSEN FRESHER Data Scientist fresher with strong cohesive skills related to machine learning and deployment of end-to-end projects. Machine Learning, Linear Regression, Ridge Regression, Lasso Regression, Tableau, Time Series Analysis.",
+    "transformer_score": 0.5405702590942383,
+    "tfidf_score": 0.05281184082989108,
+    "section_score": 0.0,
+    "combined_score": 0.23207165588666265,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_071.pdf",
+    "candidate_name": "Jeremy Nyugen G R A D U A T E  R E S E A R C H  A S S I S T A N T Executive Profile Analyst with 2 years of experience in interpreting and analyzing data driven business solutions. Proficient knowledge in statistics and analytics. Excellent understanding of analytics tools such as R and Python for effective analysis of data. Other Activities",
+    "transformer_score": 0.5415436029434204,
+    "tfidf_score": 0.04566805494228712,
+    "section_score": 0.0,
+    "combined_score": 0.2303178576600543,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_049.pdf",
+    "candidate_name": "Jade Roberts J U N I O R  A N A L Y S T Executive Profile I like to explore data and use analytics to provide a larger insight to data and its derivatives. Currently experience in providing solutions based on retail analysis and business intelligence. Other Activities SIX-SIGMA, GREEN BELT Certification",
+    "transformer_score": 0.51569664478302,
+    "tfidf_score": 0.07292157786386734,
+    "section_score": 0.0,
+    "combined_score": 0.22815513127236822,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_003.pdf",
+    "candidate_name": "P R O F I L E Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with innovative solutions and maintain better software development practices. SOFTWARE ENGINEER -MACHINE LEARNING ACS Solutions Pvt. Ltd. May 2018 to Ongoing Worked on the communication of edge devices with requests to MQTT and Cloud data allocation & estimation. Involved in architectural design of creating a pipeline to facilitate the communication between React web app and the Edge devices.",
+    "transformer_score": 0.48023271560668945,
+    "tfidf_score": 0.08910629750739538,
+    "section_score": 0.02540838095222129,
+    "combined_score": 0.22644748978056078,
+    "section_details": {
+      "skills": 0.02540838095222129
+    }
+  },
+  {
+    "resume_file": "candidate_111.pdf",
+    "candidate_name": "TAYLOR BENLEY J U N I O R  A N A L Y S T SKILLS Business Analyst, Data Analysis, Business Analysis, Machine Learning, Tableau, Seaborn, Python, R, AWS VIEW, NodeJS. EDUCATION BBA, JJR College, Uttaranchal, 2019. PERSONAL PROFILE",
+    "transformer_score": 0.5367573499679565,
+    "tfidf_score": 0.03764798717486731,
+    "section_score": 0.0,
+    "combined_score": 0.22599733613964282,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_065.pdf",
+    "candidate_name": "EMMA MARSHALL GRADUATE SOFTWARE ENGINEER WORK EXPERIENCE Cognibot Intern, May 2020 to Dec 2020 Part of a team that designed the software for smart robots used on assembly lines. ACADEMIC PROFILE Integrated B.Tech & M.Tech (software engineering) from Vellore Institute of Technology (VIT) in 2021",
+    "transformer_score": 0.5339263081550598,
+    "tfidf_score": 0.022299376116172238,
+    "section_score": 0.0,
+    "combined_score": 0.22026033609687562,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_043.pdf",
+    "candidate_name": "STACEY BELARNY PROFILE Data Engineer who is experienced with Text Analytics and Natural Language Processing. I have also worked on Big Data Analytics using hadoop SKILLS Machine learning, Data science, PowerBI, Data visualisation, Data Mining, Data Modelling, Data Extraction, Text Analysis, Natural Language Processing.",
+    "transformer_score": 0.4623304009437561,
+    "tfidf_score": 0.0950055942941599,
+    "section_score": 0.0,
+    "combined_score": 0.21343383866575044,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_124.pdf",
+    "candidate_name": "LISA JENNINGS PROFILE A highly disciplined and hard-working individual seeking challenging opportunity in the field of data science and data analytics where I can utilize my skills and knowledge to contribute for the growth of the organization SKILLS Data Analysis, Data Visualization, Data Structures, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Statistical",
+    "transformer_score": 0.45397043228149414,
+    "tfidf_score": 0.10194706984955196,
+    "section_score": 0.0,
+    "combined_score": 0.21217229386746325,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_070.pdf",
+    "candidate_name": "Publicis Sapient DATA PROGRAMMER, JAN 2019 - TILL DATE Setting up processes for data management, template analytical modules/deliverables; improving processes with a focus on automation of data feeding to ML models. Publicis Sapient ANALYST INTERN, OCT 2018 - JAN 2018 Worked on air pollution related Disease Analysis. B.Tech (Electrical), NIST Kottam, 2019",
+    "transformer_score": 0.46492499113082886,
+    "tfidf_score": 0.07995832630991163,
+    "section_score": 0.0,
+    "combined_score": 0.20995749434530506,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_110.pdf",
+    "candidate_name": "BILL CLIFFORD PROFILE I am an experienced analytics specialist seeking a full-time position in the field of data science and application in business problem solving, where I can apply my knowledge and skills for continuous improvement. SKILLS Data Science, Customer analytics, Data Visualization, Natural language Processing, SQL, Python, R, Tableau, Alteryx, Process Improvement.",
+    "transformer_score": 0.4674971103668213,
+    "tfidf_score": 0.07017844253987716,
+    "section_score": 0.0,
+    "combined_score": 0.20805237690869166,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_072.pdf",
+    "candidate_name": "NADIYA AHMAD DATA ANALYST WORK EXPERIENCE HSBC Bank Data Analyst, Apr 2020 - till Date Analyzing and Computing data of financial services and intermittent fiat currency stabilities. ACADEMIC PROFILE B.Tech (IT) DBB University, Himachal, 2020 EXECUTIVE",
+    "transformer_score": 0.4940376877784729,
+    "tfidf_score": 0.02360147902533359,
+    "section_score": 0.0,
+    "combined_score": 0.20469551881898926,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_086.pdf",
+    "candidate_name": "VIOLET JOSEPH ASSOCIATE CONSULTANT WORK EXPERIENCE D&D Consultancy Associate Consultant, Jul 2020 to till date Work closely with a team of consultants in a BU that is focused on both internal and external investment and returns. Tanisha Quromba Brokerage Junior Analyst Intern, Dec 2019 to May 2020",
+    "transformer_score": 0.45158374309539795,
+    "tfidf_score": 0.03256374641275254,
+    "section_score": 0.0,
+    "combined_score": 0.19040262116198495,
+    "section_details": {
+      "experience": 0.0
+    }
+  },
+  {
+    "resume_file": "candidate_064.pdf",
+    "candidate_name": "DAMIAN ROSSIER PROFILE Expertise EDA modeler. I like to learn what my data contains and how well I can model it depending on the problem. I can also leverage different visualization tools to aid the understanding of the extracted data and finally use the required ML algorithm to get an outcome. SKILLS Data Analysis, Business Analysis, Machine Learning, Regression Analysis, Time Series",
+    "transformer_score": 0.4002940058708191,
+    "tfidf_score": 0.0941471364228498,
+    "section_score": 0.0,
+    "combined_score": 0.18836174327518257,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_024.pdf",
+    "candidate_name": "P R O F I L E Data Science practitioner and Finance Technology advisor. I have employed multiple Machine Learning algorithms for different usage throughout my service tenure. HOME CREDIT INDIA FINANCE FINANCE TECHNOLOGY EXPERT NOV 2019 TO TILL DATE Identified patterns and trends in data sets containing transaction details and looking for anomalous behaviors and flagging fraudulent activities. LAYLA MOORE",
+    "transformer_score": 0.4217316508293152,
+    "tfidf_score": 0.025710923083976923,
+    "section_score": 0.0,
+    "combined_score": 0.17640593725691917,
+    "section_details": {}
+  },
+  {
+    "resume_file": "candidate_079.pdf",
+    "candidate_name": "JULIA CHEN JUNIOR ENGINEER WORK EXPERIENCE Tata Consultancy Services Ltd. Junior Data Engineer,  Nov 2019 to Apr 2021 Sentiment Analysis using the lexicon-based approach of semantic analysis. This technique calculates the sentiment orientations of the whole document or set of sentences from a semantic orientation of lexicons.",
+    "transformer_score": 0.413785457611084,
+    "tfidf_score": 0.027915688534864716,
+    "section_score": 0.0,
+    "combined_score": 0.17388888960489302,
+    "section_details": {
+      "experience": 0.0
+    }
+  }
+]
